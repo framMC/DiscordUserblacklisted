@@ -1,2 +1,3 @@
 # DiscordUserblacklisted
-- this is a fillter by bot and moderator danger user 
+- this is a filter by bot and moderator danger user 
+- Account must report by BOT YSK and Moderator
